@@ -1,9 +1,9 @@
-# 👋 Привет, я Roman Liskov WW! 
+# 👋 Привет, я Roman WW! 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@rom1715)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/snm20061977/)
 
 🚀 **Backend разработчик** с фокусом на создание серверной части сайтов и тг ботов
-🎯 Нет никааого коммерческого опыта • Хочу работать • Летом
+🎯 Ищу возможности для профессионального роста • Готов к стажировкам • Активно учусь
 
 ---
 
@@ -24,26 +24,29 @@
 
 ### 🏆 Ключевые достижения
 - **HTN потенциал**
-- **Учусь в 10 классе(там жестко ваще)** (2023) — Решение задачи прогнозирования временных рядов
+- **Учусь в 10 классе(почти хорошо)**
 - **TypeScript люблю**
 - **В CS2 играл и меня читером называли**
 
 ---
 
 ### 🔥 Избранные проекты
-#### [nestjs-ecommerce](https://github.com/romsaint/nestjs-ecommerce) ★ 350
+#### [nestjs-ecommerce](https://github.com/romsaint/nestjs-ecommerce)
 _Мой самый крупный проект, где я использовала все технологии, которые знал_
 🛠 Стек: Node.js, Nest.js, PostgreSQL, Prisma, RabbitMq, Docker, Nginx
 📈 Результат: ww
 
-#### [anon-bot](https://github.com/romsaint/anon-bot) ★ 210
+#### [anon-bot](https://github.com/romsaint/anon-bot)
 🛠 Стек: Node.js, PostgreSQL, Redis  
 🚀 Особенность: Реализация полностью анонимного чата для общения
 📈 Результат: ww
 
 ---
 
+### 📈 GitHub активность
+[![Metrics](https://metrics.lecoq.io/romsaint?template=classic&isocalendar=1&isocalendar.theme=iso&isocalendar.duration=full-year&isocalendar.levels=!null&languages=1&achievements=1&activity=1&config.timezone=Europe%2FMoscow)](https://github.com/romsaint)
+
 ### 🤝 Сотрудничество
 - Ищу интересные проекты, где я могу стать Junior Backend разработчиком
 
-### WW всем пока
+✨ **Всегда открыт к новым вызовам!**
