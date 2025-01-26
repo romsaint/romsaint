@@ -2,7 +2,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@rom1715)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/snm20061977/)
 
-🚀 **Backend разработчик** с фокусом на создание серверной части сайтов и тг ботов
+🚀 **Backend-разработчик** с фокусом на создание серверной части веб-приложений и Telegram-ботов 
+
 🎯 Ищу возможности для профессионального роста • Готов к стажировкам • Активно учусь
 
 ---
@@ -33,20 +34,28 @@
 ### 🔥 Избранные проекты
 #### [nestjs-ecommerce](https://github.com/romsaint/nestjs-ecommerce)
 _Мой самый крупный проект, где я использовала все технологии, которые знал_
+
 🛠 Стек: Node.js, Nest.js, PostgreSQL, Prisma, RabbitMq, Docker, Nginx
+
 📈 Результат: ww
 
 #### [anon-bot](https://github.com/romsaint/anon-bot)
 🛠 Стек: Node.js, PostgreSQL, Redis  
+
 🚀 Особенность: Реализация полностью анонимного чата для общения
+
 📈 Результат: ww
 
 ---
 
-### 📈 GitHub активность
-[![Metrics](https://metrics.lecoq.io/romsaint?template=classic&isocalendar=1&isocalendar.theme=iso&isocalendar.duration=full-year&isocalendar.levels=!null&languages=1&achievements=1&activity=1&config.timezone=Europe%2FMoscow)](https://github.com/romsaint)
+### 🗓 Изометрический календарь
+[![Contribution Calendar](https://ghchart.rshah.org/romsaint)](https://github.com/romsaint)
 
 ### 🤝 Сотрудничество
-- Ищу интересные проекты, где я могу стать Junior Backend разработчиком
+- 🔍 Ищу позицию Junior Backend Developer/Стажера
+- 💡 Готов к участию в open-source проектах
+- 📩 Пишите для обсуждения идей:
+
+- [![Telegram](https://img.shields.io/badge/Message_Me_Bro-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@rom1715)
 
 ✨ **Всегда открыт к новым вызовам!**
