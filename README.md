@@ -1,4 +1,4 @@
-# 👋 Привет, я Roman WW! 
+# 👋 Привет, я Роман! 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@rom1715)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/snm20061977/)
 
@@ -24,10 +24,10 @@
 ---
 
 ### 🏆 Ключевые достижения
-- **HTN потенциал**
-- **Учусь в 10 классе(почти хорошо)**
+- **Знаю nestjs**
+- **Делаю сложные Sql запросы**
+- **Создаю Telegram ботов**
 - **TypeScript люблю**
-- **В CS2 играл и меня читером называли**
 
 ---
 
